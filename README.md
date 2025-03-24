@@ -1,12 +1,12 @@
 # Raspberry-Pi-Portfolio
 
-# Raspberry Pi device
+## Raspberry Pi device
 
 The Raspberry Pi is a small yet powerful and cost-effective single-board computer (SBC). It offers wireless internet and Bluetooth connectivity, along with HDMI, USB, and audio ports, similar to a traditional computer. Often used for programming education and hardware development, it is also popular in home automation, robotics, and can serve as a media streamer or web server.
 
-# Labelled Diagram of Raspberry Pi Board.
+## Labelled Diagram of Raspberry Pi Board.
 
-# Component List and their functions:
+## Component List and their functions:
 
 
 CPU - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations.
@@ -31,9 +31,9 @@ PoE HAT Header - The PoE HAT allows you to power your Raspberry Pi using Power o
 
 USB-C Power Port - This USB-C port serves primarily as the power input, allowing the device to be powered via a USB-C power adapter.
 
-# Additional Apparatus
+## Additional Apparatus
 
-# Component List and their functions:
+## Component List and their functions:
 
 Ultrasonic Sensor: This sensor measures the distance between itself and an object using ultrasonic waves. It's commonly used in obstacle detection for robots or distance measurement applications.
 
@@ -57,7 +57,7 @@ Speaker: A small audio output device used to produce sounds or play audio signal
 
 Lego Color Sensor: A sensor that detects the color of an object, often used in robotics for tasks like line following or object sorting.
 
-# Works Cited
+## Works Cited
 
 Ltd, R. P. (n.d.). Raspberry Pi for home – Raspberry Pi. Raspberry Pi. https://www.raspberrypi.com/for-home/
 

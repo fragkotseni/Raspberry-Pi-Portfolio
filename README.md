@@ -10,27 +10,27 @@ The Raspberry Pi is a small yet powerful and cost-effective single-board compute
 
 ## Component List and their functions:
 
-CPU - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations.
+CPU (ARM Processor with Integrated Graphics) – The core of the device, responsible for processing computations and managing input/output operations.
 
-Micro HDMI Ports - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV.
+Micro HDMI Ports – High-Definition Multimedia Interface used to transmit video and digital audio signals from the Raspberry Pi to a monitor or digital TV.
 
-GPIO Header - General Purpose Input Output Ports which allows the user to interface various I/P devices.
+GPIO Header – General-Purpose Input/Output ports that enable users to connect and control various input and output devices.
 
-Audio Jack - Audio connector used for connecting audio output devices such as speakers and headphones.
+Audio Jack – A standard audio connector for external audio devices such as speakers and headphones.
 
-USB Ports - A common port available for various peripheral devices, such as a mouse, keyboard, HDD etc. This model has both 2.0 and 3.0 USB ports.
+USB Ports – Universal ports for connecting peripherals like keyboards, mice, and external storage. This model supports both USB 2.0 and USB 3.0.
 
-Micro SD Card Slot - SD card slot which is required for booting the device with an installed and functional operating system.
+Micro SD Card Slot – A slot required for inserting a microSD card that serves as the bootable storage for the Raspberry Pi’s operating system.
 
-Ethernet Port - This connector allows the user access to a wirred network, however only available on the model B of Raspberry Pi.
+Ethernet Port – A wired network port available on the Raspberry Pi Model B, allowing direct internet connectivity.
 
-CSI Camera Port - Camera Serial Interface connects the Broadcom processor to the Pi camera.
+CSI Camera Port – A Camera Serial Interface that connects the Raspberry Pi’s Broadcom processor to a dedicated Pi camera module.
 
-DSI Display port - Display Serial Interface (DSI) is used for connecting LCD to Raspberry Pi using 15 15-pin ribbon cables. DSI provides a high-resolution display interface that is specifically used for sending video data.
+DSI Display Port – A Display Serial Interface (DSI) designed for connecting LCD screens using a 15-pin ribbon cable, enabling high-resolution video output.
 
-HAT Header - The PoE HAT allows you to power your Raspberry Pi using Power over Ethernet–enabled networks.
+HAT Header – A Power over Ethernet (PoE) HAT connection that allows the Raspberry Pi to be powered through a PoE-enabled network.
 
-USB-C Power Port - This USB-C port serves primarily as the power input, allowing the device to be powered via a USB-C power adapter.
+USB-C Power Port – The primary power input, used to power the Raspberry Pi via a USB-C power adapter.
 
 ## Additional Apparatus
 

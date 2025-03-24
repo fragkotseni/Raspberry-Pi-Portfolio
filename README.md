@@ -6,6 +6,8 @@ The Raspberry Pi is a small yet powerful and cost-effective single-board compute
 
 ## Labelled Diagram of Raspberry Pi Board.
 
+https://mail.google.com/mail/u/1?ui=2&ik=3bfea7fffe&attid=0.1&permmsgid=msg-f:1827490827740861128&th=195c8d39b1c752c8&view=att&zw&disp=safe
+
 ## Component List and their functions:
 
 

@@ -14,7 +14,7 @@ CPU - ARM processor with integrated graphics. It is the heart of the device whic
 
 Micro HDMI Ports - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV.
 
-GPIO Ports - General Purpose Input Output Ports which allows the user to interface various I/P devices.
+GPIO Header - General Purpose Input Output Ports which allows the user to interface various I/P devices.
 
 Stereo Audio - Audio connector used for connecting audio output devices such as speakers and headphones.
 

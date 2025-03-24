@@ -38,27 +38,27 @@ USB-C Power Port – The primary power input, used to power the Raspberry Pi via
 
 ## Component List and their functions:
 
-Ultrasonic Sensor: This sensor measures the distance between itself and an object using ultrasonic waves. It's commonly used in obstacle detection for robots or distance measurement applications.
+Ultrasonic Sensor – Measures the distance to an object using ultrasonic waves. Commonly used in robotics for obstacle detection and distance measurement.
 
-LED Stick: A small stick of individually addressable RGB LEDs. It allows you to control the color and brightness of each LED independently, useful for creating colorful light effects.
+LED Stick – A strip of individually addressable RGB LEDs, allowing independent control of color and brightness for dynamic lighting effects.
 
-Lego Wheel: A basic wheel part compatible with Lego Technic sets. Often used to create robot bases or moving vehicles.
+Lego Wheel – A wheel compatible with Lego Technic sets, typically used for building robot bases or mobile vehicles.
 
-Wii Remote: A game controller from the Nintendo Wii console, often repurposed in DIY projects to provide motion input or button controls via Bluetooth.
+Wii Remote – A motion-sensitive game controller from the Nintendo Wii, often repurposed for DIY projects to provide motion tracking and button input via Bluetooth.
 
-Camera Module: A small camera, likely compatible with Raspberry Pi, used to capture images or video, and can be implemented for computer vision projects.
+Camera Module – A small camera, likely designed for Raspberry Pi, used for capturing images or video, often utilized in computer vision applications.
 
-Infared Sensor: This component measures temperature. It might output analog or digital signals to microcontrollers for applications like weather stations or environment monitoring.
+Infrared Sensor – Measures temperature and outputs analog or digital signals to microcontrollers, commonly used in weather stations and environmental monitoring.
 
-Vending Machine Breadboard: A reusable board for prototyping electronic circuits without soldering. It allows you to connect various components and test circuit designs.
+Vending Machine Breadboard – A solderless prototyping board for testing and designing electronic circuits by easily connecting components.
 
-Raspberry Pi Build HAT: A small, affordable computer used for a variety of electronics projects. It serves as the control unit that can run programs, control sensors, and process data.
+Raspberry Pi Build HAT – An add-on board for Raspberry Pi that facilitates control of motors and sensors in electronics and robotics projects.
 
-Speaker: A small audio output device used to produce sounds or play audio signals in projects.
+Speaker – A compact audio output device used to play sounds or signals in various projects.
 
-GPIO PIN: A connector likely used to interface other components or GPIO pins with the Raspberry Pi, making it easier to connect various peripherals.
+GPIO PIN – A connector that helps interface components with the Raspberry Pi’s GPIO pins, enabling easy peripheral connections.
 
-Lego Color Sensor: A sensor that detects the color of an object, often used in robotics for tasks like line following or object sorting.
+Lego Color Sensor – Detects the color of objects, commonly used in robotics for tasks like line tracking and object sorting.
 
 ## Works Cited
 

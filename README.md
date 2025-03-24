@@ -6,10 +6,9 @@ The Raspberry Pi is a small yet powerful and cost-effective single-board compute
 
 ## Labelled Diagram of Raspberry Pi Board.
 
-https://mail.google.com/mail/u/1?ui=2&ik=3bfea7fffe&attid=0.1&permmsgid=msg-f:1827490827740861128&th=195c8d39b1c752c8&view=att&zw&disp=safe
+![86CBEF72-2382-493B-B972-77CB36B55BE4](https://github.com/user-attachments/assets/a339c2fd-618e-42be-a1d3-fb44934483fb)
 
 ## Component List and their functions:
-
 
 CPU - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations.
 
@@ -34,6 +33,8 @@ PoE HAT Header - The PoE HAT allows you to power your Raspberry Pi using Power o
 USB-C Power Port - This USB-C port serves primarily as the power input, allowing the device to be powered via a USB-C power adapter.
 
 ## Additional Apparatus
+
+![03B08319-C588-4D54-B8D6-FD4F2D74B437](https://github.com/user-attachments/assets/8d9251ea-7c54-460f-a3ba-1228fb878820)
 
 ## Component List and their functions:
 

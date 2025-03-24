@@ -12,7 +12,7 @@ The Raspberry Pi is a small yet powerful and cost-effective single-board compute
 
 CPU - ARM processor with integrated graphics. It is the heart of the device which controls the I/O devices and computations.
 
-HDMI Ports - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV.
+Micro HDMI Ports - High Definition Multimedia Interface used for transmitting video and digital audtio data from a computer to monitor or digital TV.
 
 GPIO Ports - General Purpose Input Output Ports which allows the user to interface various I/P devices.
 
